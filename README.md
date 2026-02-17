@@ -9,6 +9,7 @@ A modern, responsive To-Do List built using **HTML, CSS, and JavaScript**.
 - 🏷️ Tag tasks as **Work**, **Personal**, or **Urgent**
 - 🔍 Filter tasks by status (All / Active / Completed)
 - 🧭 Filter tasks by category
+- 📅 Easy to use
 - 🌗 Toggle dark mode (saved in local storage)
 - 💾 Auto-save tasks and theme using Local Storage
 
